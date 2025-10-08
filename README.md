@@ -16,3 +16,10 @@ A ponte H L293D permite controle de sentido de rotação e parada dos motores.
 
 É altamente recomendável o uso de um capacitor eletrolítico e diodos de proteção para motores, embora não estejam visíveis na imagem.
 
+Autores:
+
+Geovani Mussulini Monteiro
+
+Jack Clemente Artur
+
+Adilio Gregorio Da Silva
